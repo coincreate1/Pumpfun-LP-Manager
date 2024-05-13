@@ -15,12 +15,18 @@ Pumpfun Coin creation, LP remove or Dev auto sell
 **Pumpfun Bonding Curve Volume Bot**
 
 -Generate wallets
+
 -Enter Volume Target
+
 -Buy/Sell with wallets
+
 -Retrieve wallets balances
+
 
 **Pumpfun Sniper and Copy trader(with Jito)**
 -Input dev wallet and snipe the token they create
+
 -Copy trade any wallet trade as they buy
+
 
 Get via **https://discord.gg/j8muZMpq**
