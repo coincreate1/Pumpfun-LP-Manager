@@ -1,6 +1,3 @@
-# Pumpfun-LP-Manager
-Pumpfun Coin creation, LP remove or Dev auto sell
-
 **Pumpfun Coin Creator**
 -Bundle and Buy first 2 to 27 orders.
 
