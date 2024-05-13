@@ -7,7 +7,9 @@ Pumpfun Coin creation, LP remove or Dev auto sell
 **Pumpfun LP Manager(with Jito)**
 
 -Manual-LP-Sell(with Jito): Sell off specific percentage(50% or 100%) of Dev Tokens
+
 -SemiAuto-LP-Sell(with Jito): Sell off all Dev Tokens when you hit Enter.
+
 -Auto-LP-Sell(with Jito): Automatically tracks Dev wallet for newly created token and sell off when LP reaches specified SOL value. (This works even before coin is created)
 
 **Pumpfun Bonding Curve Volume Bot**
