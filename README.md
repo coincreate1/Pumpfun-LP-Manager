@@ -18,6 +18,7 @@
 
 
 **Pumpfun Sniper and Copy trader(with or without Jito)**
+
 -Input dev wallet and snipe the token they create
 
 -Copy trade any wallet trade as they buy
