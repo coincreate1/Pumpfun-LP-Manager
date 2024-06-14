@@ -1,8 +1,4 @@
-**Pumpfun Coin Creator**
-
--Bundle and Buy first 2 to 27 orders.
-
-**Pumpfun LP Manager(with Jito)**
+**Pumpfun LP Manager(with or without Jito)**
 
 -Manual-LP-Sell(with Jito): Sell off specific percentage(50% or 100%) of Dev Tokens
 
@@ -21,10 +17,10 @@
 -Retrieve wallets balances
 
 
-**Pumpfun Sniper and Copy trader(with Jito)**
+**Pumpfun Sniper and Copy trader(with or without Jito)**
 -Input dev wallet and snipe the token they create
 
 -Copy trade any wallet trade as they buy
 
 
-Get via **https://discord.gg/j8muZMpq**
+Get via **https://discord.gg/WGNFXgvG**
